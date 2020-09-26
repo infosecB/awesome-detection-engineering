@@ -3,7 +3,6 @@
 ## Frameworks 
 
 - [Alerting and Detection Strategies (ADS) Framework](https://github.com/palantir/alerting-detection-strategy-framework)
-- 
 
 ## Signatures & Content
 
