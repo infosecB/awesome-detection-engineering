@@ -18,3 +18,4 @@
 - [The Pyramid of Pain | David J Bianco | Enterprise Detection & Response](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 - [Lessons Learned in Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856)
 - [Detection Engineering Twitter List](https://twitter.com/i/lists/952735755838738432)
+- [Splunk Quick Reference](https://www.splunk.com/pdfs/solution-guides/splunk-quick-reference-guide.pdf)
