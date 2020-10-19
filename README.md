@@ -11,6 +11,10 @@
 - [Sigma](https://github.com/Neo23x0/sigma)
 - [Rule Converter](https://uncoder.io)
 
+## Logging
+
+- [Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets)
+
 ## Resources
 
 - [Detection Maturity Level (DML) Model](http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
