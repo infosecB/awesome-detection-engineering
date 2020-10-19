@@ -14,6 +14,7 @@
 ## Logging
 
 - [Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets)
+- [MITRE ATT&CK Data Sources](https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f)
 
 ## Resources
 
