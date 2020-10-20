@@ -12,12 +12,12 @@
 - [Sigma](https://github.com/Neo23x0/sigma)
 - [Rule Converter](https://uncoder.io)
 
-## Logging
+## Logging, Monitoring and Data Sources
 
 - [Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets)
 - [MITRE ATT&CK Data Sources](https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f)
 
-## Resources
+## General Resources
 
 - [Detection Maturity Level (DML) Model](http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
 - [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/)
