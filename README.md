@@ -25,3 +25,4 @@
 - [Detection Engineering Twitter List](https://twitter.com/i/lists/952735755838738432)
 - [Splunk Quick Reference](https://www.splunk.com/pdfs/solution-guides/splunk-quick-reference-guide.pdf)
 - [DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
+- [Summit Route - How to write security alerts](https://summitroute.com/blog/2016/11/22/how_to_write_security_alerts/)
