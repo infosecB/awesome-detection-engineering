@@ -3,18 +3,18 @@
 
 ## Concepts & Frameworks 
 
-- [Alerting and Detection Strategies (ADS) Framework](https://github.com/palantir/alerting-detection-strategy-framework)
-- [Detection Maturity Level (DML) Model](http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
-- [The Pyramid of Pain | David J Bianco | Enterprise Detection & Response](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
+- [Alerting and Detection Strategies (ADS) Framework | Palantir](https://github.com/palantir/alerting-detection-strategy-framework)
+- [Detection Maturity Level (DML) Model | Ryan Stillions] (http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
+- [The Pyramid of Pain | David J Bianco](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 - [Cyber Kill Chain | Lockheed Martin](https://www.lockheedmartin.com/us/what-we-do/aerospace-defense/cyber/cyber-kill-chain.html)
 
 ## Signatures & Content
 
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org)
-- [Sigma](https://github.com/Neo23x0/sigma)
-- [Rule Converter](https://uncoder.io)
+- [Sigma Rules](https://github.com/Neo23x0/sigma)
+- [Uncoder Rule Converter](https://uncoder.io)
 
-## Logging, Monitoring and Data Sources
+## Logging, Monitoring & Data Sources
 
 - [Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets)
 - [MITRE ATT&CK Data Sources](https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f)
