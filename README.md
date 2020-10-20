@@ -4,7 +4,7 @@
 ## Concepts & Frameworks 
 
 - [Alerting and Detection Strategies (ADS) Framework | Palantir](https://github.com/palantir/alerting-detection-strategy-framework)
-- [Detection Maturity Level (DML) Model | Ryan Stillions] (http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
+- [Detection Maturity Level (DML) Model | Ryan Stillions](http://ryanstillions.blogspot.com/2014/04/the-dml-model_21.html)
 - [The Pyramid of Pain | David J Bianco](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
 - [Cyber Kill Chain | Lockheed Martin](https://www.lockheedmartin.com/us/what-we-do/aerospace-defense/cyber/cyber-kill-chain.html)
 
