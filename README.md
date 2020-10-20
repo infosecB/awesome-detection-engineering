@@ -1,4 +1,4 @@
-# Detection Engineering Index
+# Awesome Detection Engineering
 
 ## Frameworks 
 
