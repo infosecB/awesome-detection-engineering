@@ -29,7 +29,8 @@
 ## Big Data & Machine Learning
 
 - [Big Data and Google's Three Papers I - GFS and MapReduce](https://bowenli86.github.io/2016/10/23/distributed%20system/data/Big-Data-and-Google-s-Three-Papers-I-GFS-and-MapReduce/)
--[Big Data and Google's Three Paper II - BigTable](https://bowenli86.github.io/2016/11/29/distributed%20system/data/Big-Data-and-Google-s-Three-Paper-II-BigTable/)
+- [Big Data and Google's Three Paper II - BigTable](https://bowenli86.github.io/2016/11/29/distributed%20system/data/Big-Data-and-Google-s-Three-Paper-II-BigTable/)
+- [Apache Hadoop YARN – Background and an Overview](https://blog.cloudera.com/apache-hadoop-yarn-background-and-an-overview/)
 
 ## General Resources
 
