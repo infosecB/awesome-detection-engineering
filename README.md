@@ -26,6 +26,11 @@
 - [Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets)
 - [MITRE ATT&CK Data Sources](https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f)
 
+## Big Data & Machine Learning
+
+- [Big Data and Google's Three Papers I - GFS and MapReduce](https://bowenli86.github.io/2016/10/23/distributed%20system/data/Big-Data-and-Google-s-Three-Papers-I-GFS-and-MapReduce/)
+-[Big Data and Google's Three Paper II - BigTable](https://bowenli86.github.io/2016/11/29/distributed%20system/data/Big-Data-and-Google-s-Three-Paper-II-BigTable/)
+
 ## General Resources
 
 - [Lessons Learned in Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856)
