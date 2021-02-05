@@ -20,6 +20,7 @@
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org) - MITRE's well-maintained repository of detection content.
 - [Sigma Rules](https://github.com/Neo23x0/sigma) - Sigma's well-maintained repository of turn-key detection content. Content can be converted for use with most SIEMs.
 - [Uncoder Rule Converter](https://uncoder.io) - A tool that can convert detection content for use with most SIEMs.
+- [Valhalla YARA rules](https://valhalla.nextron-systems.com)
 
 ## Logging, Monitoring & Data Sources
 
