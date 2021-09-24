@@ -1,6 +1,6 @@
 # Awesome Detection Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools and resources for cybersecurity detection engineers.
+> A curated list of tools and resources for Threat Detection Engineers.
 
 ## Contents
 
