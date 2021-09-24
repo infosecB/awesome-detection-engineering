@@ -22,7 +22,6 @@
 
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org) - MITRE's well-maintained repository of detection content.
 - [Sigma Rules](https://github.com/Neo23x0/sigma) - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
-- [Splunk Security Content](https://github.com/splunk/security_content)Splunk-curated detection content that can easily be used accross many SIEMs (see Uncoder Rule Converter.) 
 - [Uncoder Rule Converter](https://uncoder.io) - A tool that can convert detection content for use with most SIEMs.
 - [Valhalla YARA rules](https://valhalla.nextron-systems.com)
 - [Splunk Security Content](https://github.com/splunk/security_content) - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
