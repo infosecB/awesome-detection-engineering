@@ -41,3 +41,4 @@
 - [CI/CD Detection Engineering: Splunk's Security Content, Part 1 | José Enrique Hernandez](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-security-content-part-1.html)
 - [CI/CD Detection Engineering: Splunk's Attack Range, Part 2 | José Enrique Hernandez](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-s-attack-range-part-2.html)
 - [CI/CD Detection Engineering: Failing, Part 3 | José Enrique Hernandez](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-failing-part-3.html)
+- [The Four Types of Threat Detection - Dragos](https://www.dragos.com/wp-content/uploads/The_Four_Types-of_Threat_Detection.pdf)
