@@ -40,7 +40,5 @@
 - [Detection Engineering Twitter List](https://twitter.com/i/lists/952735755838738432) - A Twitter list of Detection Engineers.
 - [DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
 - [Summit Route - How to write security alerts](https://summitroute.com/blog/2016/11/22/how_to_write_security_alerts/)
-- [CI/CD Detection Engineering: Splunk's Security Content, Part 1 | José Enrique Hernandez](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-security-content-part-1.html)
-- [CI/CD Detection Engineering: Splunk's Attack Range, Part 2 | José Enrique Hernandez](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-s-attack-range-part-2.html)
-- [CI/CD Detection Engineering: Failing, Part 3 | José Enrique Hernandez](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-failing-part-3.html)
+- CI/CD Detection Engineering: [Splunk's Security Content, Part 1](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-security-content-part-1.html) [Splunk's Attack Range, Part 2](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-s-attack-range-part-2.html) [Failing, Part 3](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-failing-part-3.html) | José Enrique Hernandez - A three part blog series loosely describing how to deploy detection as code in a Splunk environment using the Splunk Security Research team's Security Content.
 - [The Four Types of Threat Detection - Dragos](https://www.dragos.com/wp-content/uploads/The_Four_Types-of_Threat_Detection.pdf)
