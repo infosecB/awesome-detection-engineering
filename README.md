@@ -24,7 +24,6 @@
 - [CAR Coverage Comparision](https://car.mitre.org/coverage/) - A matrix of MITRE ATT&CK technique IDs and links to available Splunk Security Content, Elastic detection rules, Sigma rules, and CAR content.
 - [Sigma Rules](https://github.com/Neo23x0/sigma) - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
 - [Uncoder Rule Converter](https://uncoder.io) - A tool that can convert detection content for use with most SIEMs.
-- [Valhalla YARA rules](https://valhalla.nextron-systems.com)
 - [Splunk Security Content](https://github.com/splunk/security_content) - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
 - [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
 - [Center for Threat Informed Defense Security Stack Mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - Describes cloud computing platform's (Azure, AWS) built-in detection capabilities and their mapings to the MITRE ATT&CK framework.
