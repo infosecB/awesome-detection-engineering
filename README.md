@@ -27,6 +27,7 @@
 - [Splunk Security Content](https://github.com/splunk/security_content) - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
 - [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
 - [AWS GuardDuty Findings](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html) - A list of all AWS GuardDuty Findings, their descriptions, and associated data sources.
+- [GCP Security Command Center Findings](https://cloud.google.com/security-command-center/docs/concepts-security-sources#threats) - A list of all GCP Security Command Center Findings, their descriptions, and associated data sources.
 - [Center for Threat Informed Defense Security Stack Mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - Describes cloud computing platform's (Azure, AWS) built-in detection capabilities and their mapings to the MITRE ATT&CK framework.
 
 ## Logging, Monitoring & Data Sources
