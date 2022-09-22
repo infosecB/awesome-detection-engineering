@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+Thanks for your consideration to contribute the the Awesome Detection Engineering list! Please read through these guidelines if you'd like to submit a contribution.
+
 Please note that this project is released with a
 [Contributor Code of Conduct](code-of-conduct.md). By participating in this
 project you agree to abide by its terms.
@@ -8,9 +10,12 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Make sure your list item(s) follow the appropriate markdown format:
+
+```- [Short Title Here | Author/Org if applicable](URL here) - Brief description.```
+- In your pull request, please include a brief summary of why your contribution adds value to this list.
+
+You may also submit an Issue if you'd like to quickly recommend a new resource.
 
 Thank you for your suggestions!
 
