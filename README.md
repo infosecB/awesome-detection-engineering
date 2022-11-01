@@ -57,13 +57,13 @@
 ## Blog Archive
 
 ### 2022
-[How to Write an Actionable Alert | Daniel Wyleczuk-Stern](https://catscrdl.io/blog/howtowriteanactionablealert/)
-[Democratizing Security Detection](https://medium.com/palantir/democratizing-security-detection-71c689b667a5)
+- [How to Write an Actionable Alert | Daniel Wyleczuk-Stern](https://catscrdl.io/blog/howtowriteanactionablealert/)
+- [Democratizing Security Detection](https://medium.com/palantir/democratizing-security-detection-71c689b667a5)
 
 ### 2021
 
-[Detection-as-Code — Testing | Kyle Bailey](https://medium.com/@kyle-bailey/detection-as-code-testing-c03b0eea7fb8)
-[Practical Detection-as-Code | Brendan Chamberlain](https://medium.com/@infosecb/practical-detection-as-code-8a8fe7c65676)
+- [Detection-as-Code — Testing | Kyle Bailey](https://medium.com/@kyle-bailey/detection-as-code-testing-c03b0eea7fb8)
+- [Practical Detection-as-Code | Brendan Chamberlain](https://medium.com/@infosecb/practical-detection-as-code-8a8fe7c65676)
 
 ### 2020
 
