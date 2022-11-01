@@ -58,7 +58,7 @@
 
 ### 2022
 - [How to Write an Actionable Alert | Daniel Wyleczuk-Stern](https://catscrdl.io/blog/howtowriteanactionablealert/)
-- [Democratizing Security Detection](https://medium.com/palantir/democratizing-security-detection-71c689b667a5)
+- [Democratizing Security Detection | Palantir](https://medium.com/palantir/democratizing-security-detection-71c689b667a5)
 
 ### 2021
 
