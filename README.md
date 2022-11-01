@@ -8,7 +8,7 @@
 - [Signatures & Content](#signatures--content)
 - [Logging, Monitoring & Data Sources](#logging-monitoring--data-sources)
 - [General Resources](#general-resources)
-- [## Blog Archive](#blog-archive)
+- [Blog Archive](#blog-archive)
 
 ## Concepts & Frameworks 
 
