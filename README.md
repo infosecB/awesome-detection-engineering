@@ -54,8 +54,9 @@
 ## Blog Archive
 
 ### 2022
-
 - [CI/CD Detection Engineering: Dockerizing for Scale, Part 4 | Splunk Research Team](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-dockerizing-for-scale-part-4.html)
+- [Capturing Detection Ideas to Improve Their Impact | Florian Roth](https://cyb3rops.medium.com/capturing-detection-ideas-to-improve-their-impact-311cf4e1c7a8)
+- [About Detection Engineering | Florian Roth](https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0)
 - [How to Write an Actionable Alert | Daniel Wyleczuk-Stern](https://catscrdl.io/blog/howtowriteanactionablealert/)
 - [Democratizing Security Detection | Palantir](https://medium.com/palantir/democratizing-security-detection-71c689b667a5)
 
