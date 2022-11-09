@@ -8,6 +8,7 @@
 - [Signatures & Content](#signatures--content)
 - [Logging, Monitoring & Data Sources](#logging-monitoring--data-sources)
 - [General Resources](#general-resources)
+- [Blog Archive](#blog-archive)
 
 ## Concepts & Frameworks 
 
@@ -35,7 +36,7 @@
 ## Logging, Monitoring & Data Sources
 
 - [Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets) - Multiple cheatsheets outlined recommendations for Windows Event logging at various levels of granularity.
-- [Linux auditd Detection Ruleset](https://github.com/Neo23x0/auditd/blob/master/audit.rules)
+- [Linux auditd Detection Ruleset](https://github.com/Neo23x0/auditd/blob/master/audit.rules) - Linux auditd ruleset that produces telemetry required for threat detection use cases.
 - [MITRE ATT&CK Data Sources Blog Post](https://medium.com/mitre-attack/defining-attack-data-sources-part-i-4c39e581454f) - MITRE describes various data sources and how they relate to the TTPs found in the MITRE ATT&CK framework.
 - [MITRE ATT&CK Data Sources List](https://attack.mitre.org/datasources/) - Data source objects added to MITRE ATT&CK as part of v10.
 - [Splunk Common Information Model (CIM)](https://docs.splunk.com/Documentation/CIM/5.0.0/User/Overview) - Splunk's proprietary model used as a framework for normalizing security data.
@@ -45,10 +46,33 @@
 
 ## General Resources
 
-- [Lessons Learned in Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856) - A well experienced detection engineer describes in detail his observations, challenges, and recommendations for building an effective threat detection program.
 - [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/) - MITRE's open-source tool that can be used to track detection coverage, visibility, and other efforts and their relationship to the ATT&CK framework.
 - [Detection Engineering Twitter List](https://twitter.com/i/lists/952735755838738432) - A Twitter list of Detection Engineers.
 - [DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
-- [Summit Route - How to write security alerts](https://summitroute.com/blog/2016/11/22/how_to_write_security_alerts/)
+
+
+## Blog Archive
+
+### 2022
+- [CI/CD Detection Engineering: Dockerizing for Scale, Part 4 | Splunk Research Team](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-dockerizing-for-scale-part-4.html)
+- [Capturing Detection Ideas to Improve Their Impact | Florian Roth](https://cyb3rops.medium.com/capturing-detection-ideas-to-improve-their-impact-311cf4e1c7a8)
+- [About Detection Engineering | Florian Roth](https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0)
+- [How to Write an Actionable Alert | Daniel Wyleczuk-Stern](https://catscrdl.io/blog/howtowriteanactionablealert/)
+- [Democratizing Security Detection | Palantir](https://medium.com/palantir/democratizing-security-detection-71c689b667a5)
+
+### 2021
+
+- [Detection-as-Code — Testing | Kyle Bailey](https://medium.com/@kyle-bailey/detection-as-code-testing-c03b0eea7fb8)
+- [Practical Detection-as-Code | Brendan Chamberlain](https://medium.com/@infosecb/practical-detection-as-code-8a8fe7c65676)
+
+### 2020
+
+- [Detection Engineering using Apple’s Endpoint Security Framework | Richie Cyrus](https://posts.specterops.io/detection-engineering-using-apples-endpoint-security-framework-affdbcb18b02)
+- [So, You Want to Be a Detection Engineer? | Josh Day](https://blog.gigamon.com/2020/02/24/so-you-want-to-be-a-detection-engineer/)
+
+### Older
 - CI/CD Detection Engineering: Splunk's Security Content, [Part 1](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-security-content-part-1.html) Splunk's Attack Range, [Part 2](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-s-attack-range-part-2.html) Failing, [Part 3](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-failing-part-3.html) | José Enrique Hernandez - A three part blog series loosely describing how to deploy detection as code in a Splunk environment using the Splunk Security Research team's Security Content.
-- [The Four Types of Threat Detection - Dragos](https://www.dragos.com/wp-content/uploads/The_Four_Types-of_Threat_Detection.pdf)
+- [Behind the Scenes with Red Canary’s Detection Engineering Team | Kyle Rainey](https://redcanary.com/blog/detection-engineering/)
+- [A SOCless Detection Team at Netflix](https://www.linkedin.com/pulse/socless-detection-team-netflix-alex-maestretti/)
+- [The Four Types of Threat Detection | Sergio Caltagirone, Robert Lee](https://www.dragos.com/wp-content/uploads/The_Four_Types-of_Threat_Detection.pdf)
+- [Lessons Learned in Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856) - A well experienced detection engineer describes in detail his observations, challenges, and recommendations for building an effective threat detection program.
