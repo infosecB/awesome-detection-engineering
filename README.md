@@ -64,6 +64,7 @@
 
 - [Detection-as-Code — Testing | Kyle Bailey](https://medium.com/@kyle-bailey/detection-as-code-testing-c03b0eea7fb8)
 - [Practical Detection-as-Code | Brendan Chamberlain](https://medium.com/@infosecb/practical-detection-as-code-8a8fe7c65676)
+- [Simple Anomaly Detection Using Plain SQL | Haki Benita](https://hakibenita.com/sql-anomaly-detection)
 
 ### 2020
 
