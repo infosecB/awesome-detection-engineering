@@ -34,6 +34,7 @@
 - [Azure Defender for Cloud Security Alerts](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference) - A list of all Azure Security for Cloud Alerts, their descriptions, and associated data sources.
 - [Center for Threat Informed Defense Security Stack Mappings](https://github.com/center-for-threat-informed-defense/security-stack-mappings) - Describes cloud computing platform's (Azure, AWS) built-in detection capabilities and their mapings to the MITRE ATT&CK framework.
 - [Detection Engineering with Splunk](https://github.com/west-wind/Threat-Hunting-With-Splunk) - A GitHub repo dedicated to sharing detection analytics in SPL.
+- [Google Cloud Security Analytics] (https://github.com/GoogleCloudPlatform/security-analytics) - This repository serves as a community-driven list of sample security analytics for auditing cloud usage and for detecting threats to your data & workloads in Google Cloud.
 
 ## Logging, Monitoring & Data Sources
 
@@ -45,6 +46,7 @@
 - [Elastic Common Schema](https://www.elastic.co/guide/en/ecs/current/ecs-getting-started.html) - Elastic's proprietary model used as a framework for normalizing security data.
 - [Open Cybersecurity Schema Framework (OCSF)](https://schema.ocsf.io/categories?extensions) - An opensource security data source and event schema.
 - [Loghub](https://github.com/logpai/loghub) - opensource and freely available security data sources for research and testing.
+- [Elastalert | Yelp](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.
 
 ## General Resources
 
