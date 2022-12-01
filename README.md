@@ -5,7 +5,7 @@
 ## Contents
 
 - [Concepts & Frameworks](#concepts--frameworks)
-- [Detection Content & Signatures](#signatures--content)
+- [Detection Content & Signatures](#detection-content--signatures)
 - [Logging, Monitoring & Data Sources](#logging-monitoring--data-sources)
 - [General Resources](#general-resources)
 - [Blog Archive](#blog-archive)
