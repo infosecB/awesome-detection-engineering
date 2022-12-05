@@ -59,6 +59,7 @@
 ## Blog Archive
 
 ### 2022
+- [Leveraging the Apple ESF for Behavioral Detections | Jaron Bradley, Matt Benyo](https://m.youtube.com/watch?v=AlN59giec0M)
 - [CI/CD Detection Engineering: Dockerizing for Scale, Part 4 | Splunk Research Team](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-dockerizing-for-scale-part-4.html)
 - [Capturing Detection Ideas to Improve Their Impact | Florian Roth](https://cyb3rops.medium.com/capturing-detection-ideas-to-improve-their-impact-311cf4e1c7a8)
 - [About Detection Engineering | Florian Roth](https://cyb3rops.medium.com/about-detection-engineering-44d39e0755f0)
