@@ -48,6 +48,7 @@
 - [Open Cybersecurity Schema Framework (OCSF)](https://schema.ocsf.io/categories?extensions) - An opensource security data source and event schema.
 - [Loghub](https://github.com/logpai/loghub) - Opensource and freely available security data sources for research and testing.
 - [Elastalert | Yelp](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.
+- [Matano](https://github.com/matanolabs/matano) - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.
 
 ## General Resources
 
