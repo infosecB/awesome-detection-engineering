@@ -60,6 +60,7 @@
 ## Blog Archive
 
 ### 2022
+- [Building the Threat Detection Ecosystem at Brex | Julie Agnes Sparks](https://medium.com/brexeng/building-the-threat-detection-ecosystem-at-brex-215e98b2f1bc)
 - [Leveraging the Apple ESF for Behavioral Detections | Jaron Bradley, Matt Benyo](https://m.youtube.com/watch?v=AlN59giec0M)
 - [CI/CD Detection Engineering: Dockerizing for Scale, Part 4 | Splunk Research Team](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-dockerizing-for-scale-part-4.html)
 - [Capturing Detection Ideas to Improve Their Impact | Florian Roth](https://cyb3rops.medium.com/capturing-detection-ideas-to-improve-their-impact-311cf4e1c7a8)
