@@ -52,6 +52,7 @@
 
 ## General Resources
 
+- [Detection Engineering Weekly](https://detectionengineering.net) - A newsletter dedicated to news and how-tos for Detection Engineering content. Sometimes contains blogs/rants by the author :). 
 - [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/) - MITRE's open-source tool that can be used to track detection coverage, visibility, and other efforts and their relationship to the ATT&CK framework.
 - [Detection Engineering Twitter List](https://twitter.com/i/lists/952735755838738432) - A Twitter list of Detection Engineers.
 - [DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
@@ -60,6 +61,7 @@
 ## Blog Archive
 
 ### 2022
+- [Table stakes for Detection Engineering | Zack Allen](https://www.detectionengineering.net/p/table-stakes-for-detection-engineering)
 - [Building the Threat Detection Ecosystem at Brex | Julie Agnes Sparks](https://medium.com/brexeng/building-the-threat-detection-ecosystem-at-brex-215e98b2f1bc)
 - [Leveraging the Apple ESF for Behavioral Detections | Jaron Bradley, Matt Benyo](https://m.youtube.com/watch?v=AlN59giec0M)
 - [CI/CD Detection Engineering: Dockerizing for Scale, Part 4 | Splunk Research Team](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-dockerizing-for-scale-part-4.html)
