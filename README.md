@@ -51,12 +51,11 @@
 - [Matano](https://github.com/matanolabs/matano) - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.
 
 ## General Resources
-
-- [Detection Engineering Weekly](https://detectionengineering.net) - A newsletter dedicated to news and how-tos for Detection Engineering content. Sometimes contains blogs/rants by the author :). 
+ 
 - [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/enterprise/) - MITRE's open-source tool that can be used to track detection coverage, visibility, and other efforts and their relationship to the ATT&CK framework.
 - [Detection Engineering Twitter List](https://twitter.com/i/lists/952735755838738432) - A Twitter list of Detection Engineers.
 - [DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
-
+- [Detection Engineering Weekly](https://detectionengineering.net) - A newsletter dedicated to news and how-tos for Detection Engineering.
 
 ## Blog Archive
 
