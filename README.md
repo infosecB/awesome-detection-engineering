@@ -58,6 +58,7 @@
 - [Detection Engineering Twitter List](https://twitter.com/i/lists/952735755838738432) - A Twitter list of Detection Engineers.
 - [DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
 - [Detection Engineering Weekly](https://detectionengineering.net) - A newsletter dedicated to news and how-tos for Detection Engineering.
+- [Awesome Kubernetes (K8s) Threat Detection](https://github.com/jatrost/awesome-kubernetes-threat-detection) - Another Awesome List dedicated to Kubernetes (K8s) threat detection.
 
 ## Blog Archive
 
