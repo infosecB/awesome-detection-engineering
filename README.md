@@ -67,6 +67,10 @@
 
 ## Blog Archive
 
+### 2023
+
+- [From soup to nuts: Building a Detection-as-Code pipeline | David French](https://medium.com/threatpunter/from-soup-to-nuts-building-a-detection-as-code-pipeline-28945015fc38)
+
 ### 2022
 - [Table stakes for Detection Engineering | Zack Allen](https://www.detectionengineering.net/p/table-stakes-for-detection-engineering)
 - [Building the Threat Detection Ecosystem at Brex | Julie Agnes Sparks](https://medium.com/brexeng/building-the-threat-detection-ecosystem-at-brex-215e98b2f1bc)
