@@ -2,21 +2,20 @@
 
 name: Awesome Lint
 
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
   pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
+    branches: [main]
+    paths:
+      - 'readme.md'
   workflow_dispatch:
-
 jobs:
   lint:
-    name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.0.0
-      - uses: max/awesome-lint@v2.0.0
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: awesome-lint
+        run: ./.github/workflows/repo_linter.sh
