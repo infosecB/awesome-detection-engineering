@@ -34,6 +34,7 @@
 - [Elastic Endpoint Ransomware Artifact](https://github.com/elastic/protections-artifacts/tree/main/ransomware/artifact.lua) - Elastic's ranswomware artifact, which runs on the Elastic endpoint agent.
 - [Chronicle (GCP) Detection Rules](https://github.com/chronicle/detection-rules) - Chronicle's detection rules written natively for the the Chronicle Platform.
 - [Exabeam Content Library](https://github.com/ExabeamLabs/Content-Library-CIM2) - Exabeam's out of the box detection content compatible with the Exabeam Common Information Model.
+- [Panther Labs Detection Rules](https://github.com/panther-labs/panther-analysis/tree/master/rules) - Panther Lab's native detection rules.
 - [AWS GuardDuty Findings](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html) - A list of all AWS GuardDuty Findings, their descriptions, and associated data sources.
 - [GCP Security Command Center Findings](https://cloud.google.com/security-command-center/docs/concepts-security-sources#threats) - A list of all GCP Security Command Center Findings, their descriptions, and associated data sources.
 - [Azure Defender for Cloud Security Alerts](https://docs.microsoft.com/en-us/azure/defender-for-cloud/alerts-reference) - A list of all Azure Security for Cloud Alerts, their descriptions, and associated data sources.
