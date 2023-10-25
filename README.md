@@ -8,7 +8,6 @@ A curated list of tools and resources for Threat Detection Engineers.
 - [Detection Content & Signatures](#detection-content--signatures)
 - [Logging, Monitoring & Data Sources](#logging-monitoring--data-sources)
 - [General Resources](#general-resources)
-- [Blog Archive](#blog-archive)
 
 ## Concepts & Frameworks 
 
