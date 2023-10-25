@@ -61,6 +61,6 @@ A curated list of tools and resources for Threat Detection Engineers.
 - [ATT&CK Navigator | MITRE](https://mitre-attack.github.io/attack-navigator/enterprise/) - MITRE's open-source tool that can be used to track detection coverage, visibility, and other efforts and their relationship to the ATT&CK framework.
 - [Detection Engineering Weekly | Zack Allen](https://detectionengineering.net) - A newsletter dedicated to news and how-tos for Detection Engineering.
 - [Detection Engineering Twitter List | Zack Allen](https://twitter.com/i/lists/1629936556298436608) - A Twitter list of Detection Engineering thought leaders.
-- [DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack)
+- [DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack) - Outlines a methodology measuring security data visibility and detection coverage against the MITRE ATT&CK framework.
 - [Awesome Kubernetes (K8s) Threat Detection](https://github.com/jatrost/awesome-kubernetes-threat-detection) - Another Awesome List dedicated to Kubernetes (K8s) threat detection.
 - [Living Off the Living Off the Land](https://lolol.farm) - A collection of resources for thriving off the land.
