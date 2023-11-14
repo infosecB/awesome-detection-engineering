@@ -63,5 +63,6 @@ A curated list of tools and resources for Threat Detection Engineers.
 - [Detection Engineering Twitter List | Zack Allen](https://twitter.com/i/lists/1629936556298436608) - A Twitter list of Detection Engineering thought leaders.
 - [DETT&CT: MAPPING YOUR BLUE TEAM TO MITRE ATT&CK™](https://www.mbsecure.nl/blog/2019/5/dettact-mapping-your-blue-team-to-mitre-attack) - Outlines a methodology measuring security data visibility and detection coverage against the MITRE ATT&CK framework.
 - [Awesome Kubernetes (K8s) Threat Detection](https://github.com/jatrost/awesome-kubernetes-threat-detection) - Another Awesome List dedicated to Kubernetes (K8s) threat detection.
+- [Detection and Response Pipeline](https://github.com/0x4D31/detection-and-response-pipeline) - A list of tools for each component of a detection and response pipeline which includes real-world examples.
 - [Living Off the Living Off the Land](https://lolol.farm) - A collection of resources for thriving off the land.
-- [Detection at Scale Podcast | Jack Naglieri](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270)
+- [Detection at Scale Podcast | Jack Naglieri](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270) - A detection engineering-focused podcast featuring many thought leaders in the specialization.
