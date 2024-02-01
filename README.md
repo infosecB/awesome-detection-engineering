@@ -66,3 +66,4 @@ A curated list of tools and resources for Threat Detection Engineers.
 - [Detection and Response Pipeline](https://github.com/0x4D31/detection-and-response-pipeline) - A list of tools for each component of a detection and response pipeline which includes real-world examples.
 - [Living Off the Living Off the Land](https://lolol.farm) - A collection of resources for thriving off the land.
 - [Detection at Scale Podcast | Jack Naglieri](https://podcasts.apple.com/us/podcast/detection-at-scale/id1582584270) - A detection engineering-focused podcast featuring many thought leaders in the specialization.
+- [Cloud Threat Landscape | Wiz](https://threats.wiz.io/all-techniques) - A cloud detection engineering-focused database, that lists threat actors known to have compromised cloud environments, the tools and techniques in their arsenal, and the technologies they prefer to target.
