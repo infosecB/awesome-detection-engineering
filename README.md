@@ -19,7 +19,7 @@ A curated list of tools and resources for Threat Detection Engineers.
 - [Cyber Kill Chain | Lockheed Martin](https://www.lockheedmartin.com/us/what-we-do/aerospace-defense/cyber/cyber-kill-chain.html) - Lockheed Martin's framework that outlines the 7 stages commonly observed in a cyber attack.
 - [MaGMa (Management, Growth and Metrics & Assessment) Use Case Defintion Model](https://www.betaalvereniging.nl/wp-content/uploads/FI-ISAC-use-case-framework-verkorte-versie.pdf) - A business-centric approach for defining threat detection use cases.
 - [Synthetic Adversarial Log Objects (SALO) | Splunk](https://github.com/splunk/salo) - Synthetic Adversarial Log Objects (SALO) is a framework for the generation of log events without the need for infrastructure or actions to initiate the event that causes a log event.
-- [The Zen of Security Rules | Justin Ibarra](https://br0k3nlab.com/resources/zen-of-security-rules/)
+- [The Zen of Security Rules | Justin Ibarra](https://br0k3nlab.com/resources/zen-of-security-rules/) - Outlines 19 aphorisms that serve as universal principles for the creation of high quality detection content. 
 
 ## Detection Content & Signatures
 
