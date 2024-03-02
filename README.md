@@ -1,6 +1,8 @@
 # Awesome Detection Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of tools and resources for Threat Detection Engineers.
+Detection Engineering is a tactical function of a cybersecurity defense program that involves the design, implementation, and operation of detective controls with the goal of proactively identifying malicious or unauthorized activity before it negatively impacts an individual or an organization.
+
+All contributions are welcome, please carefully review the [contributing guidelines](https://github.com/infosecB/awesome-detection-engineering/blob/main/contributing.md) prior to submitting a pull request.
 
 ## Contents
 
