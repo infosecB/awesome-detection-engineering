@@ -67,8 +67,10 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [MITRE ATT&CK Data Sources List](https://attack.mitre.org/datasources/) - Data source objects added to MITRE ATT&CK as part of v10.
 - [Splunk Common Information Model (CIM)](https://docs.splunk.com/Documentation/CIM/5.0.0/User/Overview) - Splunk's proprietary model used as a framework for normalizing security data.
 - [Elastic Common Schema](https://www.elastic.co/guide/en/ecs/current/ecs-getting-started.html) - Elastic's proprietary model used as a framework for normalizing security data.
+- [Falco | CNCF](https://falco.org) - A cloud native runtime security tool that detects abnormal behavior and potential security threats in real-time using eBPF and custom rules.
 - [Exabeam Common Information Model](https://github.com/ExabeamLabs/CIMLibrary) - Exabeam's proprietary model used as a framework for normalizing security data.
 - [Open Cybersecurity Schema Framework (OCSF)](https://schema.ocsf.io/categories?extensions) - An opensource security data source and event schema.
+- [osquery | Facebook](https://osquery.io) - A SQL-powered operating system instrumentation, monitoring, and analytics framework that exposes OS data as relational tables for querying and detection.
 - [Loghub](https://github.com/logpai/loghub) - Opensource and freely available security data sources for research and testing.
 - [Elastalert | Yelp](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.
 - [Matano](https://github.com/matanolabs/matano) - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.
