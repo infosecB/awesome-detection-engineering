@@ -69,6 +69,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Elastic Common Schema](https://www.elastic.co/docs/reference/ecs/ecs-getting-started) - Elastic's proprietary model used as a framework for normalizing security data.
 - [Exabeam Common Information Model](https://github.com/ExabeamLabs/CIMLibrary) - Exabeam's proprietary model used as a framework for normalizing security data.
 - [Open Cybersecurity Schema Framework (OCSF)](https://schema.ocsf.io/categories?extensions) - An opensource security data source and event schema.
+- [osquery | Facebook](https://osquery.io) - A SQL-powered operating system instrumentation, monitoring, and analytics framework that exposes OS data as relational tables for querying and detection.
 - [Loghub](https://github.com/logpai/loghub) - Opensource and freely available security data sources for research and testing.
 - [Elastalert | Yelp](https://github.com/YelpArchive/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.
 - [Matano](https://github.com/matanolabs/matano) - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.
