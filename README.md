@@ -57,6 +57,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [KQL Advanced Hunting Queries & Analytics Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) - A list of endpoint detections and hunting queries for Microsoft Defender for Endpoint, Defender For Identity, and Defender For Cloud Apps.
 - [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [TerraSigma](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
+- [m365-security-operations | Ievgen Bondarenko](https://github.com/ibondarenko1/m365-security-operations) - Audit-and-remediate toolkit for Microsoft 365 plus Cloudflare in small organizations, with 5 MITRE-mapped Sentinel scheduled analytics rule ARM templates and 10 KQL hunting drills tagged with NIST CSF, NIST 800-53, ISO 27001, MITRE ATT&CK, and MCSB controls.
 - [Detections Digest | Sergey Polzunov](https://detections-digest.rulecheck.io) - A newsletter that features updates from many popular detection content sources listed here. 
 
 ## Logging, Monitoring & Data Sources
