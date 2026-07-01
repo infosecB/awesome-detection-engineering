@@ -59,6 +59,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [KQL Advanced Hunting Queries & Analytics Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules) - A list of endpoint detections and hunting queries for Microsoft Defender for Endpoint, Defender For Identity, and Defender For Cloud Apps.
 - [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [TerraSigma](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
+- [Clankerusecase](https://clankerusecase.com) - Threat-led library of 7,800+ MITRE ATT&CK-mapped detections in Defender/Sentinel KQL, Sigma, Splunk SPL, Datadog, Falcon LogScale, and AWS CloudWatch, generated from public threat-intel reporting and schema-validated before publish.
 - [Detections Digest | Sergey Polzunov](https://detections-digest.rulecheck.io) - A newsletter that features updates from many popular detection content sources listed here. 
 
 ## Logging, Monitoring & Data Sources
