@@ -61,6 +61,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Sigma2KQL](https://github.com/Khadinxc/Sigma2KQL) - A repository of all SIGMA rules converted to KQL that runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository.
 - [TerraSigma](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
 - [Detections Digest | Sergey Polzunov](https://detections-digest.rulecheck.io) - A newsletter that features updates from many popular detection content sources listed here. 
+- [opseclint](https://github.com/Gerrrt/opseclint) - A static analyzer that maps shell/command actions to ATT&CK techniques, the host telemetry they emit, and the Sigma detections that would fire — for reasoning about detection coverage across Linux/auditd, Windows/Sysmon, and macOS/Endpoint Security.
 
 ## Logging, Monitoring & Data Sources
 
