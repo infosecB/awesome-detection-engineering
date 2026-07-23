@@ -79,6 +79,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Microsoft XDR Advanced Hunting Schema](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables) To help with multi-table queries, you can use the advanced hunting schema, which includes tables and columns with event information and details about devices, alerts, identities, and other entity types.
 - [InnerWarden](https://github.com/InnerWarden/innerwarden) - Autonomous security agent for Linux with real-time threat detection and response via 38 eBPF hooks, 48 detectors, and 23 correlation rules.
 - [Rustinel | Karib0u](https://github.com/Karib0u/rustinel) - Open-source endpoint detection engine for Windows and Linux that collects ETW/eBPF telemetry and evaluates Sigma, YARA, and IOC detections.
+- [SOCTalk](https://github.com/soctalk/soctalk) - Open source, LLM driven SOC automation platform for MSPs and MSSPs built on Wazuh. Triages, investigates, and escalates alerts through a two tier AI pipeline with human in the loop review, multi tenant isolation, and a no code triage policy editor backed by deterministic execution. Apache 2.0.
 
 ## General Resources
  
