@@ -40,6 +40,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [CAR Coverage Comparision](https://car.mitre.org/coverage/) - A matrix of MITRE ATT&CK technique IDs and links to available Splunk Security Content, Elastic detection rules, Sigma rules, and CAR content.
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
 - [Sigma rule converter](https://sigconverter.io/) - An opensource tool that can convert detection content for use with most SIEMs.
+- [RSigma | Timescale](https://github.com/timescale/rsigma) - A complete Sigma detection engineering toolkit with parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP.
 - [AttackRuleMap](https://attackrulemap.com) - Mapping of open-source detection rules and atomic tests.
 - [Splunk Security Content](https://github.com/splunk/security_content) - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
 - [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
