@@ -10,6 +10,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Detection Content & Signatures](#detection-content--signatures)
 - [Logging, Monitoring & Data Sources](#logging-monitoring--data-sources)
 - [General Resources](#general-resources)
+- [AI Agents](#ai-agents)
 
 ## Concepts & Frameworks 
 
