@@ -63,6 +63,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [TerraSigma](https://github.com/Khadinxc/TerraSigma) - A repository of all SIGMA rules converted to Microsoft Sentinel Terraform Scheduled analytic resources. The repository runs on a weekly schedule to update the repository and align with the up to date version of the SIGMA rules repository. Proper entity mapping is completed for the rules to ensure the repo is plug-and-play.
 - [Detections Digest | Sergey Polzunov](https://detections-digest.rulecheck.io) - A newsletter that features updates from many popular detection content sources listed here. 
 
+- [http-detection-agent](https://github.com/ai-blueteam/http-detection-agent) - Open-source HTTP detection agent for identifying suspicious web traffic and generating actionable security detections.
 ## Logging, Monitoring & Data Sources
 
 - [Windows Logging Cheatsheets](https://www.malwarearchaeology.com/cheat-sheets) - Multiple cheatsheets outlined recommendations for Windows Event logging at various levels of granularity.
