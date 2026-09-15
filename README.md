@@ -41,6 +41,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
 - [Sigma rule converter](https://sigconverter.io/) - An opensource tool that can convert detection content for use with most SIEMs.
 - [RSigma | Timescale](https://github.com/timescale/rsigma) - A complete Sigma detection engineering toolkit with parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP.
+- [sagan2sigma | NRGLine4Sec](https://github.com/NRGLine4Sec/sagan2sigma) - Converts the Sagan rule corpus, strong on network appliances and Unix daemons, into Sigma: about 87% of its 10,000 rules with the default profile and 94% with the Vector pipeline it ships. Anything it cannot convert faithfully is refused with a stated reason rather than approximated, and a pre-converted copy of the corpus is committed and kept in step with upstream.
 - [AttackRuleMap](https://attackrulemap.com) - Mapping of open-source detection rules and atomic tests.
 - [Splunk Security Content](https://github.com/splunk/security_content) - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
 - [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
