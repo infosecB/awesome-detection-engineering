@@ -42,6 +42,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Sigma rule converter](https://sigconverter.io/) - An opensource tool that can convert detection content for use with most SIEMs.
 - [RSigma | Timescale](https://github.com/timescale/rsigma) - A complete Sigma detection engineering toolkit with parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP.
 - [AttackRuleMap](https://attackrulemap.com) - Mapping of open-source detection rules and atomic tests.
+- [LogTriage Detection Rules](https://logtriage.app/rules/) - Free Sigma rules where each rule is validated against a real sample log before publishing: it must fire on a known-malicious sample and stay silent on the benign one. Mapped to log source and MITRE ATT&CK, with false-positive notes. Mirrored at [logtriage-cyber/logtriage-detection-rules](https://github.com/logtriage-cyber/logtriage-detection-rules).
 - [Splunk Security Content](https://github.com/splunk/security_content) - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
 - [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
 - [Elastic Endpoint Behavioral Rules](https://github.com/elastic/protections-artifacts/tree/main/behavior/rules) - Elastic's endpoint behavioral (prevention) rules written in EQL, natively for the Elastic endpoint agent.
