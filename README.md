@@ -41,6 +41,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Sigma Rules](https://github.com/SigmaHQ/sigma) - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.
 - [Sigma rule converter](https://sigconverter.io/) - An opensource tool that can convert detection content for use with most SIEMs.
 - [RSigma | Timescale](https://github.com/timescale/rsigma) - A complete Sigma detection engineering toolkit with parser, evaluation engine, rule conversion, streaming runtime, linter, CLI, MCP, and LSP.
+- [Varpulis](https://github.com/varpulis/pySigma-backend-varpulis) - An open-source stream engine and pySigma backend that run Sigma rules and correlations on Kafka or NATS event streams in event time, alongside sequences Sigma cannot express (absences, repetitions). Its benchmark checks every convertible SigmaHQ Windows rule against an independent Sigma engine on MITRE's APT29 data.
 - [AttackRuleMap](https://attackrulemap.com) - Mapping of open-source detection rules and atomic tests.
 - [Splunk Security Content](https://github.com/splunk/security_content) - Splunk's open-source and frequently updated detection content that can be tweaked for use in other tools.
 - [Elastic Detection Rules](https://github.com/elastic/detection-rules/tree/main/rules) - Elastic's detection rules written natively for the Elastic SIEM. Can easily be converted for use by other SIEMs using Uncoder.
