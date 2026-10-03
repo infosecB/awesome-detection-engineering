@@ -81,6 +81,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [InnerWarden](https://www.innerwarden.com/) - Autonomous security agent for Linux with real-time threat detection and response via 38 eBPF hooks, 48 detectors, and 23 correlation rules.
 - [Rustinel | Karib0u](https://github.com/Karib0u/rustinel) - Open-source endpoint detection engine for Windows and Linux that collects ETW/eBPF telemetry and evaluates Sigma, YARA, and IOC detections.
 - [SOCTalk](https://github.com/soctalk/soctalk) - Open source, LLM driven SOC automation platform for MSPs and MSSPs built on Wazuh. Triages, investigates, and escalates alerts through a two tier AI pipeline with human in the loop review, multi tenant isolation, and a no code triage policy editor backed by deterministic execution. Apache 2.0.
+- [ETDucky.ProviderExplorer | ET Ducky](https://github.com/trucule/ETDucky.ProviderExplorer) - Windows tool that enumerates every registered ETW provider on a host, subscribes to one with all keywords, and shows event counts and decoded sample payloads per event ID.
 
 ## General Resources
  
