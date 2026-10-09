@@ -10,6 +10,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Detection Content & Signatures](#detection-content--signatures)
 - [Logging, Monitoring & Data Sources](#logging-monitoring--data-sources)
 - [General Resources](#general-resources)
+- [AI Agents](#ai-agents)
 
 ## Concepts & Frameworks 
 
@@ -97,3 +98,6 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Splunk ES Correlation Searches Best Practices | OpsTune](https://github.com/inodee/threathunting-spl/blob/master/Splunk%20ES%20Correlation%20Searches%20Best%20Practices%20v1.3.pdf) - A highly detailed guide to producing high quality detection content in the Splunk Enterprise Security app.
 - [How Google Does It: Making threat detection high-quality, scalable, and modern | Anton Chuvakin, Tim Nguyen](https://cloud.google.com/transform/how-google-does-it-modernizing-threat-detection) - The team at Google highlights 5 key principles for building a high quality, scalable and modern threat detection program.
 - [SOCLabs](https://www.soc-labs.top/) - A lab for blue teamers and detection engineers, with real threat data and support for popular SIEM query languages, enabling hands-on learning and practice in detection rule writing and threat hunting.
+
+## AI Agents
+- [Cynative](https://github.com/cynative/cynative) - Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
