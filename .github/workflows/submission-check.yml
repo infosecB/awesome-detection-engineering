@@ -7,6 +7,16 @@ on:
     types: [opened, synchronize, reopened, edited]
     paths:
       - 'README.md'
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'PR number to check'
+        required: true
+        type: number
+      dry_run:
+        description: 'Print results to the log instead of commenting and labeling'
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -22,4 +32,5 @@ jobs:
         run: ./.github/workflows/check_submission.sh
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ github.event.pull_request.number }}
+          PR_NUMBER: ${{ github.event.pull_request.number || inputs.pr_number }}
+          DRY_RUN: ${{ inputs.dry_run && '1' || '' }}
