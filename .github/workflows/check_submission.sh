@@ -16,7 +16,10 @@ MIN_STARS=${MIN_STARS:-25}
 MAX_IDLE_DAYS=${MAX_IDLE_DAYS:-365}
 MARKER='<!-- submission-check -->'
 
-pr=$(gh api "repos/$REPO/pulls/$PR_NUMBER")
+if ! pr=$(gh api "repos/$REPO/pulls/$PR_NUMBER"); then
+	echo "Could not fetch PR #$PR_NUMBER from $REPO." >&2
+	exit 1
+fi
 author=$(jq -r '.user.login' <<<"$pr")
 body=$(jq -r '.body // ""' <<<"$pr")
 
@@ -30,11 +33,6 @@ repos=$(
 	grep -Eiv "^(orgs|sponsors|topics|$REPO$)" |
 	sort -uf
 )
-
-if [ -z "$repos" ]; then
-	echo "No new GitHub repositories found in README.md changes."
-	exit 0
-fi
 
 hard=0
 soft=0
@@ -90,14 +88,32 @@ elif [ "$declared" = 0 ]; then
 	soft=1
 fi
 
+if [ "$hard" = 1 ]; then
+	verdict=":x: **One or more inclusion criteria are not met.**"
+elif [ "$soft" = 1 ]; then
+	verdict=":warning: **Passed with warnings.**"
+else
+	verdict=":white_check_mark: **All checks passed.**"
+fi
+
+if [ -z "$repos" ]; then
+	echo "No new GitHub repositories found in README.md changes."
+	table="No new GitHub repositories were found in the README.md changes, so there was nothing to check against the stars/age/activity criteria."
+else
+	table="| Repository | Result |
+|---|---|
+$rows"
+fi
+
 comment="$MARKER
 ### Submission check
 
+$verdict
+
 Linked repositories compared against the [inclusion criteria](https://github.com/$REPO/blob/main/contributing.md#inclusion-criteria). This is a guide; a maintainer makes the final call.
 
-| Repository | Result |
-|---|---|
-$rows
+$table
+
 $extra"
 
 if [ -n "${DRY_RUN:-}" ]; then
