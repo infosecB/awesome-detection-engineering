@@ -2,7 +2,7 @@
 
 # Find the repo in the git diff and then set it to an env variables.
 REPO_TO_LINT=$(
-	git diff origin/main -- readme.md |
+	git diff origin/main -- README.md |
 	# Look for changes (indicated by lines starting with +).
 	grep ^+ |
 	# Get the line that includes the readme.

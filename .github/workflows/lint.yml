@@ -8,7 +8,7 @@ on:
   pull_request:
     branches: [main]
     paths:
-      - 'readme.md'
+      - 'README.md'
   workflow_dispatch:
 jobs:
   lint:
