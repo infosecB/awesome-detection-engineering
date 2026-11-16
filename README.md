@@ -78,6 +78,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Open Cybersecurity Schema Framework (OCSF)](https://schema.ocsf.io/categories?extensions) - An opensource security data source and event schema.
 - [osquery | Facebook](https://osquery.io) - A SQL-powered operating system instrumentation, monitoring, and analytics framework that exposes OS data as relational tables for querying and detection.
 - [Loghub](https://github.com/logpai/loghub) - Opensource and freely available security data sources for research and testing.
+- [SOC-Log-Analysis-Datasets | Mahi Al Jaber](https://github.com/mahialjaber/SOC-Log-Analysis-Datasets) - Simulated security logs across five domains (App, Cloud, Email/DLP, Endpoint, Network) with embedded attack vectors and Splunk SPL, Sentinel KQL,   and CLI hunting queries.
 - [Elastalert | Yelp](https://github.com/YelpArchive/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.
 - [Matano](https://github.com/matanolabs/matano) - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.
 - [Microsoft XDR Advanced Hunting Schema](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables) - To help with multi-table queries, you can use the advanced hunting schema, which includes tables and columns with event information and details about devices, alerts, identities, and other entity types.
