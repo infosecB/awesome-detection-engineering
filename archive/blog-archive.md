@@ -23,12 +23,12 @@
 
 ### 2020
 
-- [Detection Engineering using Apple's Endpoint Security Framework | Richie Cyrus](https://posts.specterops.io/detection-engineering-using-apples-endpoint-security-framework-affdbcb18b02)
+- [Detection Engineering using Apple's Endpoint Security Framework | Richie Cyrus](https://web.archive.org/web/20200529121414/https://posts.specterops.io/detection-engineering-using-apples-endpoint-security-framework-affdbcb18b02?gi=dc73f61bc91c)
 - [So, You Want to Be a Detection Engineer? | Josh Day](https://blog.gigamon.com/2020/02/24/so-you-want-to-be-a-detection-engineer/)
 
 ### Older
 - CI/CD Detection Engineering: Splunk's Security Content, [Part 1](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-security-content-part-1.html) Splunk's Attack Range, [Part 2](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-splunk-s-attack-range-part-2.html) Failing, [Part 3](https://www.splunk.com/en_us/blog/security/ci-cd-detection-engineering-failing-part-3.html) | José Enrique Hernandez - A three part blog series loosely describing how to deploy detection as code in a Splunk environment using the Splunk Security Research team's Security Content.
-- [Behind the Scenes with Red Canary's Detection Engineering Team | Kyle Rainey](https://redcanary.com/blog/detection-engineering/)
+- [Behind the Scenes with Red Canary's Detection Engineering Team | Kyle Rainey](https://www.zscaler.com/blogs/cybersecurity-best-practices/detection-engineering)
 - [A SOCless Detection Team at Netflix](https://www.linkedin.com/pulse/socless-detection-team-netflix-alex-maestretti/)
-- [The Four Types of Threat Detection | Sergio Caltagirone, Robert Lee](https://www.dragos.com/wp-content/uploads/The_Four_Types-of_Threat_Detection.pdf)
+- [The Four Types of Threat Detection | Sergio Caltagirone, Robert Lee](https://web.archive.org/web/20240430045042/https://www.dragos.com/wp-content/uploads/The_Four_Types-of_Threat_Detection.pdf)
 - [Lessons Learned in Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/lessons-learned-in-detection-engineering-304aec709856) - A well experienced detection engineer describes in detail his observations, challenges, and recommendations for building an effective threat detection program.
