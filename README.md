@@ -50,7 +50,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Elastic Yara Signatures](https://github.com/elastic/protections-artifacts/tree/main/yara/rules) - Elastic's YARA signatures, which run on the Elastic endpoint agent.
 - [Elastic Endpoint Ransomware Artifact](https://github.com/elastic/protections-artifacts/blob/main/ransomware/artifact.lua) - Elastic's ransomware artifact, which runs on the Elastic endpoint agent.
 - [Chronicle (GCP) Detection Rules](https://github.com/chronicle/detection-rules) - Chronicle's detection rules written natively for the Chronicle Platform.
-- [Exabeam Content Library](https://github.com/ExabeamLabs/Content-Library-CIM2) - Exabeam's out of the box detection content compatible with the Exabeam Common Information Model.
+- [Exabeam Content Library](https://web.archive.org/web/20251221192935/https://github.com/ExabeamLabs/Content-Library-CIM2) - Exabeam's out of the box detection content compatible with the Exabeam Common Information Model.
 - [Panther Labs Detection Rules](https://github.com/panther-labs/panther-analysis/tree/main/rules) - Panther Lab's native detection rules.
 - [Anvilogic Detection Armory](https://github.com/anvilogic-forge/armory) - Anvilogic's opensource and publicly available detection content.
 - [AWS GuardDuty Findings](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_finding-types-active.html) - A list of all AWS GuardDuty Findings, their descriptions, and associated data sources.
